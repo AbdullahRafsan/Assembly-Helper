@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assembly Helper</string>
+	<string name="about_app">This app was built to help me
+with my CSE 333 course.
+Contains a number system converter,
+ASCII table and other useful tools :)
+	</string>
+	<string name="version">v1.0.1</string>
+	<string name="converter_page">Number Converter</string>
+	<string name="ascii_table_page">ASCII Table</string>
+	<string name="decimal">Signed</string>
+	<string name="octal">Octal</string>
+	<string name="binary">Binary</string>    
+	<string name="ascii">ASCII</string>
+	<string name="hexadecimal">Hexadecimal</string>
+	<string name="decimal_unsigned">Unsigned</string>
+</resources>

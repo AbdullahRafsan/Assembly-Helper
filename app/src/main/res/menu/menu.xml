@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+	<item
+        android:title="Bit mode"
+		app:showAsAction="never">
+		
+		<menu>
+			<item
+				android:id="@+id/action8BitMode"
+				android:title="8 Bit"
+				app:showAsAction="never"/>
+			<item
+				android:id="@+id/action16BitMode"
+				android:title="16 Bit"
+				app:showAsAction="never"/>
+		</menu>		
+	</item>
+
+	<item
+		android:id="@+id/actionASCIITable"
+        android:title="ASCII Table"
+		app:showAsAction="never"/>
+	
+    <item
+		android:id="@+id/actionAbout"
+        android:title="About"
+		app:showAsAction="never"/>
+    
+</menu>
